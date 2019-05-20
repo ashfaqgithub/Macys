@@ -11,13 +11,13 @@ public class MacysHome extends Config {
 	//Must Create Reference of Locators & Values
 	MLoc ML = new MLoc();
 	MVal MV = new MVal();
-	
+
 	@Test
 	public void SearchBox(){
 		typeByXpath(ML.Search, MV.SearchVal);
 		clickByXpath(ML.SearchButton);
 	}
-	
-	
-	
+
+
+
 }

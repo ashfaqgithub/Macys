@@ -6,7 +6,7 @@ import base.Config;
 import locators.MLoc;
 import values.MVal;
 
-public class MacysHome extends Config {
+public class MacysSearch extends Config {
 
 	//Must Create Reference of Locators & Values
 	MLoc ML = new MLoc();

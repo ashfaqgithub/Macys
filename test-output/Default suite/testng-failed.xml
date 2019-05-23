@@ -10,16 +10,6 @@
           <include name="AccountSignIn"/>
         </methods>
       </class> <!-- test.SignInTest -->
-      <class name="test.FooterHelp">
-        <methods>
-          <include name="HelpTest"/>
-        </methods>
-      </class> <!-- test.FooterHelp -->
-      <class name="test.MacysSearch">
-        <methods>
-          <include name="SearchBox"/>
-        </methods>
-      </class> <!-- test.MacysSearch -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
